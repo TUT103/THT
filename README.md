@@ -71,7 +71,7 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 
 ## Experiment Result
 
-<div align=center>
+
 |Algorithm    | MOTA↑ | HOTA↑ | IDF1↑ | MT↑ | ML↓ | FP↓    | FN↓    | ID-Sw↓     |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |-----|
 |SORT20               | 42.70 | 36.10 | 45.10 | 208 | 326 | 27521  | 264694 | 4470   |
@@ -83,8 +83,7 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 |GATracker       | 60.70 | 50.60 | 61.6  | 603 | 187 | 48356  | 147468 | 7548  |
 |THT_Train(ours)                 | 55.07 | 41.12 | 52.18 | 572 | 360 | 272685 | 637842 | 65129     |
 |THT_Test(ours)                  | 46.16 | 38.60 | 48.17 | 263 | 267 | 28232  | 217032 | 33307    |
-</div>
 
-*Welcome to discuss with us in the `issue` section, or to ask your questions there.*
+*Welcome to discuss with us in the `issue` section, or ask your questions there.*
 
 *If you think this project is wonderful, please light up the star in the upper right corner.*
