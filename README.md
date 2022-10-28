@@ -55,7 +55,7 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 
 ## Body Detector
 
-<img src="ReadMe.assets/Fig_4.png" alt="Fig_4" width="500" />
+<img src="ReadMe.assets/Fig_4.png" alt="Fig_4" width="500" align="center"/>
 
 ## The Matching Method Between Head Bbox and Body Bbox 
 
