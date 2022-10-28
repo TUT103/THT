@@ -49,23 +49,23 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 ## Whole Architecture of Our Method
 
 <div align=center>
-    <img src="ReadMe.assets/Fig_2.png" alt="Fig_2" width="350" />
+    <img src="ReadMe.assets/Fig_2.png" alt="Fig_2.png" width="350" />
 </div>
 
 ## Head Detector
 <div align=center>
-    <img src="ReadMe.assets/Fig_3.png" alt="Fig_3" width="600" />
+    <img src="ReadMe.assets/Fig_3.png" alt="Fig_3.png" width="600" />
 </div>
 
 
 ## Body Detector
 <div align=center>
-    <img src="ReadMe.assets/Fig_4.png" alt="Fig_4" width="600" />
+    <img src="ReadMe.assets/Fig_4.png" alt="Fig_4.png" width="600" />
 </div>
 
 ## The Matching Method Between Head Bbox and Body Bbox 
 <div align=center>
-    <img src="ReadMe.assets/Fig_5.png" alt="Fig_5" width="500"/>
+    <img src="ReadMe.assets/Fig_5.png" alt="Fig_5.png" width="500"/>
 </div>
 
 
