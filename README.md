@@ -8,7 +8,7 @@ The code in this repository is the official implementation of the paper `Multipl
 
 Using `head detection` in dense scenes can detect more targets than `full body detection`, as shown in the following figure. The quality of the tracking results largely depends on the quality of the detection work, so the head tracking method is proposed to replace the whole body tracking method in this paper.
 
-<img src="ReadMe.assets/Fig_1.png" alt="Fig_1" style="zoom:33%;" />
+<img src="ReadMe.assets/Fig_1.png" width="350" />
 
 ## Organization Structure of this Repository
 
@@ -45,21 +45,21 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 
 ## Whole Architecture of Our Method
 
-<img src="ReadMe.assets/Fig_2.png" alt="Fig_2" style="zoom:25%;" />
+<img src="ReadMe.assets/Fig_2.png" width="250" />
 
 ## Head Detector
 
-<img src="ReadMe.assets/Fig_3.png" alt="Fig_3" style="zoom:25%;" />
+<img src="ReadMe.assets/Fig_3.png" alt="Fig_3" width="500" />
 
 
 
 ## Body Detector
 
-<img src="ReadMe.assets/Fig_4.png" alt="Fig_4" style="zoom:25%;" />
+<img src="ReadMe.assets/Fig_4.png" alt="Fig_4" width="500" />
 
 ## The Matching Method Between Head Bbox and Body Bbox 
 
-<img src="ReadMe.assets/Fig_5.png" alt="Fig_5" style="zoom:25%;" />
+<img src="ReadMe.assets/Fig_5.png" alt="Fig_5" width="400"/>
 
 ## Experiment Result
 
