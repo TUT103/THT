@@ -1,3 +1,9 @@
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: auto;
+}
+
 # Notification
 
 The code in this repository is the official implementation of the paper `Multiple Pedestrian Tracking in Dense Crowd Combined with Head Tracking`. Currently, only a part of the entire code is open sourced. Other parts of the code are being sorted out and will be open sourced soon.
@@ -8,13 +14,16 @@ The code in this repository is the official implementation of the paper `Multipl
 
 Using `head detection` in dense scenes can detect more targets than `full body detection`, as shown in the following figure. The quality of the tracking results largely depends on the quality of the detection work, so the head tracking method is proposed to replace the whole body tracking method in this paper.
 
-<img src="ReadMe.assets/Fig_1.png" width="350" />
+<img src="ReadMe.assets/Fig_1.png" width="500" class="aligncenter"/>
 
 ## Organization Structure of this Repository
 
 - MOT20_ head_ tracking folder: Track the pedestrian heads in the `MOT20 dataset` as described in the paper, and save the results in the `MOT Challenge` format as follows:
+
 `frame id, target id, bbox x1, bbox y1, bbox x2, bbox y2, 1.0, 1.0, 1.0, 1.0`
+
 - MOT20_body_detection folder: Detect the pedestrian bodies in the `MOT20 dataset` as described in the paper, and save the results in the `MOT Challenge` format as follows:
+
 `frame id，-1, bbox x1, bbox y1, bbox x2, bbox y2, -1, -1, -1, -1`
 
 # Quick Start
