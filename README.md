@@ -81,8 +81,8 @@ The full-body motion tracks of the targets will be generated and saved as a TXT 
 |SSL_MOT         | 48.10 | 30.90 | 37.50 | 421 | 240 | 70716  | 186779 | 11247|
 |Tracktor++V2  | 52.60 | 42.10 | 52.70 | 365 | 331 | 6930   | 236680 | 1648  |
 |GATracker       | 60.70 | 50.60 | 61.6  | 603 | 187 | 48356  | 147468 | 7548  |
-|THT_Train(ours)                 | 55.07 | 41.12 | 52.18 | 572 | 360 | 272685 | 637842 | 65129     |
-|THT_Test(ours)                  | 46.16 | 38.60 | 48.17 | 263 | 267 | 28232  | 217032 | 33307    |
+
+|THT(ours)   | 55.07 | 41.12 | 52.18 | 572  | 360 | 21571 | 212615 | 4342      |
 
 *Welcome to discuss with us in the `issue` section, or ask your questions there.*
 
